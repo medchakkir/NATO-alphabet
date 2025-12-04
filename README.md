@@ -56,12 +56,7 @@ The NATO phonetic alphabet is a spelling alphabet used by pilots, air traffic co
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! Some potential improvements could be:
-
-- Adding a graphical user interface
-- Supporting number conversion
-- Adding pronunciation guides
-- Implementing batch processing for multiple words
+Feel free to submit issues and enhancement requests!
 
 ## License
 
