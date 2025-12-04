@@ -21,7 +21,7 @@ A Python application that converts regular text into the NATO phonetic alphabet.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/NATO-alphabet.git
+git clone https://github.com/<username>/NATO-alphabet.git
 cd NATO-alphabet
 ```
 
@@ -66,11 +66,3 @@ Feel free to submit issues and enhancement requests! Some potential improvements
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Future Enhancements
-
-- Add support for numbers and special characters
-- Implement a GUI version
-- Add pronunciation audio files
-- Include a learning mode with quizzes
-- Add support for multiple languages
