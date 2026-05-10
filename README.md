@@ -25,10 +25,18 @@ git clone https://github.com/<username>/NATO-alphabet.git
 cd NATO-alphabet
 ```
 
-2. Install the required dependencies:
+2. Create a virtual environment (optional but recommended):
 
 ```bash
-pip install pandas
+python -m venv venv
+venv\Scripts\activate # On Windows
+source venv/bin/activate # On macOS/Linux
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -60,4 +68,4 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is for educational purposes.
